@@ -1,3 +1,13 @@
 body {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    text-align: left;
+    font-size: larger ;
+}
+
+ul li {
+    font-size: smaller;
+    text-decoration: none;
 }
